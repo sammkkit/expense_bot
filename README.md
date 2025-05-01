@@ -1,0 +1,30 @@
+# 💸 ExpenseBot - Discord Expense Tracker
+
+A simple Discord bot that helps users track their income and expenses by logging them into individual Excel sheets.
+
+## 🚀 Features
+
+- `!spend <amount>` - Logs an expense
+- `!gain <amount>` - Logs income
+- `!download` - Sends the user their personal Excel file with logged transactions
+- `!commands` - Lists available commands
+
+Each user gets their own Excel file stored temporarily on the server.
+
+---
+
+## 🛠️ Built With
+
+- [Discord.js](https://discord.js.org/) - Node.js module for interacting with the Discord API
+- [ExcelJS](https://github.com/exceljs/exceljs) - For creating and modifying Excel files
+- [Node.js](https://nodejs.org/) - JavaScript runtime
+
+---
+
+## 📦 Installation (For Local Development)
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/<your-username>/expense_bot.git
+cd expense_bot
