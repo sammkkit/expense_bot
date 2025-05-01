@@ -2,6 +2,13 @@
 
 A simple Discord bot that helps users track their income and expenses by logging them into individual Excel sheets.
 
+## 📩 Invite the Bot
+
+Want to use this bot in your own Discord server?
+
+👉 [**Click here to invite ExpenseBot**](https://discord.com/oauth2/authorize?client_id=1367158316517556275&permissions=562949953521728&integration_type=0&scope=bot)
+
+
 ## 🚀 Features
 
 - `!spend <amount>` - Logs an expense
